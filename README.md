@@ -1,4 +1,4 @@
-# LimeInterFace
+# LimeInterFace (LIF)
 FINISHED PROJECT
 I don't plan to update this project anymore
 
